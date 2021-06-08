@@ -1,8 +1,8 @@
-# App deployment link: [Joke API - Vercel](https://vercel-first-repo-domenicscarcella.vercel.app/)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# See the app deployed at: [Joke API - Vercel](https://vercel-first-repo-domenicscarcella.vercel.app/)
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
