@@ -1,5 +1,8 @@
 # See the app deployed at: [Joke API - Vercel](https://vercel-first-repo-domenicscarcella.vercel.app/)
 
+Get random jokes from 'official-joke-api' . . . take a guess before revealing the punchline!
+
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
