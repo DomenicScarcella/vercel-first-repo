@@ -1,7 +1,8 @@
 # See the app deployed at: [Joke API - Vercel](https://vercel-first-repo-domenicscarcella.vercel.app/)
 
-Get random jokes from 'official-joke-api' . . . take a guess before revealing the punchline!
+This is my favorite of the solo projects I did for Lambda School.
 
+It's a one-page app with an API call -- 'official-joke-api' --  and I enjoyed using CSS to make it scalable down to mobile-size viewports and to add some interactivity to the jokes.  Take a guess before revealing the punchline!
 
 ## Available Scripts
 
